@@ -1,29 +1,20 @@
-## Maven
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-pom.xml.bak
-release.properties
-dependency-reduced-pom.xml
-buildNumber.properties
-.mvn/timing.properties
-.mvn/wrapper/maven-wrapper.jar
-
-## Java
-.mtj.tmp/
+*.classpath
 *.class
+*.prefs
 *.jar
-*.war
-*.ear
-*.nar
-hs_err_pid*
+*.lst
+*.project
+*.factorypath
+*.original
+target/
+.settings/
+.apt_generated
+.sts4-cache
+.springBeans
 
 ## Idea
-out/
-.idea/
-.idea_modules/
+.idea
+*.iws
 *.iml
 *.ipr
-*.iws
+out/
